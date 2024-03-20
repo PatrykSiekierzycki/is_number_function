@@ -85,3 +85,4 @@ For more interested:
   - function accept three signs that are not a numbers '-', ',' and '.'.
   - minus is accepted because the number can be negative.
   - comma and dot are accepted because genaral in matematic people use commas but computers instead of commas use dots. To avoid any possible problems function accept both characters.
+  - function accept more than one dot or one comma. It can be usefull at big number that are separated with many commas or dots.
